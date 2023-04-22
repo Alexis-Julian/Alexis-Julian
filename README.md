@@ -11,8 +11,10 @@
     conocimiento sobre este maravilloso mundo 💻
   </h3>
 </div>
-  --- 
-  ### 🧑 Sobre mi : 
+
+--- 
+
+### 🧑 Sobre mi : 
   
   -👨‍🎓 Actualmente estudio en la UTN (Universidad Tecnologica Nacional)
   
