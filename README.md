@@ -1,6 +1,6 @@
 <div>
   <img
-    src="[https://giphy.com/gifs/checkmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)"
+    src="[https://giphy.com/gifs/checkmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85]"
     width="200"
   />
   <h1 align="center">Holaa   ༼ つ ◕_◕ ༽つ   , Mi nombre es Alexis 😁</h1>
