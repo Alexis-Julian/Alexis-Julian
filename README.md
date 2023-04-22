@@ -4,6 +4,7 @@
   <img
     src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif"
     width="200"
+       align="center"
   />
   <h3 align="center">
     Soy un programdor apasionado por el Desarrollo de Aplicaciones Web Full
