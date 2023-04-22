@@ -3,7 +3,7 @@
   <h1 align="center">Holaa   ༼ つ ◕_◕ ༽つ   , Mi nombre es Alexis 😁</h1>
   <img
     src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif"
-    width="200"
+    width="400"
       
   />
   <h3 align="center">
