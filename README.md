@@ -4,7 +4,7 @@
     src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif"
     width="400" 
   />
-  ---
+  
   <h3 align="center">
     Soy un programdor apasionado por el Desarrollo de Aplicaciones Web Full
     Stack, mi objetivo es seguir creciendo en experiencia y nutrirme en
@@ -21,3 +21,5 @@
   -📫 Mi correo Electronico es **alexisjrojas@hotmail.es**
   
   -🌐 Portafolio Web (Progreso..)
+  
+ ---
