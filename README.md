@@ -6,7 +6,7 @@
   />
   
   <h3 align="center">
-    Soy un programdor apasionado por el Desarrollo de Aplicaciones Web Full
+    Soy un programdor apasionado por el Desarrollo de Aplicaciones Web, Full
     Stack, mi objetivo es seguir creciendo en experiencia y nutrirme en
     conocimiento sobre este maravilloso mundo 💻
   </h3>
