@@ -6,7 +6,11 @@
   />
   
   <h3 align="center" >
-    Empece en el mundo de la programacion actualmente en 2021(3-años)  
+    Soy Full Stack Developer Jr, apasionado por la creación de soluciones tecnológicas. Con habilidades en el desarrollo frontend y backend. Comprometido con el aprendizaje continuo, busco oportunidades para crecer y contribuir a proyectos desafiantes. ¡Conéctate y exploremos juntos el mundo del desarrollo!.
+
+Habilidades
+
+
   </h3>
 </div>
 
