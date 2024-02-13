@@ -5,7 +5,7 @@
     width="400" 
   />
   
-  <h3 align="center" style={{backgroundColor:"red"}}>
+  <h3 align="center" >
     Empece en el mundo de la programacion actualmente en 2021(3-años)  
   </h3>
 </div>
