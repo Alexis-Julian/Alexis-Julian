@@ -26,13 +26,13 @@ Habilidades
 
 ### Habilidades
 
-  * Lenguajes de programacion: Html5, Css3, Sass, Javascript, NodeJs, ReactJS, Angular, Express, NestJs.
+  * Lenguajes de programacion: HTML5, CSS3, SASS, Javascript, NodeJs, ReactJS, Express, NestJs.
   
-  * Bases de datos: Mongo db, Firebase.
+  * Bases de datos: Mongo db, Firebase, Sql.
   
   * Gestor de bases de datos: Mysql y SqlServer.
   
-  * Herramientas: Postman, Thunder Client.
+  * Herramientas: Postman, Thunder Client, Insomnia.
   
   * Control de versión con git y plataformas como Github, Gitlab.
   
