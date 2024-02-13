@@ -16,7 +16,7 @@
   
   * Actualmente estudio en la UTN (Universidad Tecnologica Nacional)
   
-  * Mi correo Electronico es **alexisjrojas@hotmail.es**
+  * Mi correo Electronico es alexisjrojas@hotmail.es
   
   * Portafolio Web https://my-portafolio-gamma.vercel.app/
   
