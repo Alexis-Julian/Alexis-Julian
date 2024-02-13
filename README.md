@@ -1,5 +1,5 @@
 <div  align="center" id="header">
-  <h1 align="center">Hola mi nombre es Alexis y soy Desarrollador Web Full Stack</h1>
+  <h1 align="center">Hola mi nombre es Alexis y me especializo en el Desarrollado Web Full Stack</h1>
   <img
     src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif"
     width="400" 
