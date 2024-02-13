@@ -1,7 +1,7 @@
 <div  align="center" id="header">
   <h1 align="center">Hola mi nombre es Alexis y me especializo en el Desarrollado Web Full Stack</h1>
   <img
-    src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM0eW9lM2dlazB6YTczNGwwOXJnanY5bnhlcGhma2k5c2dwNGNucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IjxBVb5Hl4KlI6ld4/giphy-downsized-large.gif"
     width="400" 
   />
   
