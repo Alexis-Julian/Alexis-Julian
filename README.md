@@ -22,7 +22,6 @@
   
   * Mi correo Electronico es alexisjrojas@hotmail.es
   
-  * Portafolio Web https://my-portafolio-gamma.vercel.app/
 
 ### Habilidades
 
