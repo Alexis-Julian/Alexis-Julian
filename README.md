@@ -6,7 +6,7 @@
   />
   
   <h3 align="center" >
-    Soy Full Stack Developer Jr, apasionado por la creación de soluciones tecnológicas. Con habilidades en el desarrollo frontend y backend. Comprometido con el aprendizaje continuo, busco oportunidades para crecer y contribuir a proyectos desafiantes. ¡Conéctate y exploremos juntos el mundo del desarrollo!.
+    Soy Full Stack Developer, apasionado por la creación de soluciones tecnológicas. Con habilidades en el desarrollo frontend y backend. Comprometido con el aprendizaje continuo, busco oportunidades para crecer y contribuir a proyectos desafiantes. ¡Conéctate y exploremos juntos el mundo del desarrollo!.
 
 
 
